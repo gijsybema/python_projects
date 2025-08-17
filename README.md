@@ -19,6 +19,6 @@ The goal of this repository is to serve as part of my portfolio of hands-on work
 - Data Visualization: communicating results with clear plots and charts
 - Machine Learning: clustering, classification & regression models
 
-## 📌 Notes
+## Notes
 - Datasets used here are provided by DataCamp for educational purposes.
 - These projects were completed as part of my data science learning journey, and serve as a portfolio of applied Python skills.
