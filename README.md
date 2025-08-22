@@ -10,6 +10,7 @@ The goal of this repository is to serve as part of my portfolio of hands-on work
 | **Clustering Antarctic Penguin Species** | Built a k-means clustering model to cluster different penguin species.                                 | `scikit-learn`, `kmeans`, `matpltlib`                     |
 | **Investigating Netflix Movies**         | Explored a Netflix dataset to uncover insights about movie length and genre.                           | `pandas`, `matplotlib`, `numpy`                           |
 | **Voltbike Innovations**                 | Cleaned and analyzed an ebike dataset to uncover relationships with production costs and customer satisfaction | `pandas`, `numpy`                                 |
+| **Assessing Customer Churn using Machine Learning** | Compared the results of two classification models in predicting customer churn, while handling class imbalance | `pandas`, `sklearn`, `numpy`           |
 
 
 ## Skills Demonstrated
